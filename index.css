@@ -68,7 +68,7 @@ body {
   -webkit-text-fill-color: transparent;
 }
 .homebox img {
-  width: 100px;
+  width: 60px;
   background-color: rgba(255, 119, 0, 0.356);
   border-radius: 100%;
   box-shadow: 1px 1px 15px 4px rgb(255, 132, 0);
